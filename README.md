@@ -1,4 +1,4 @@
-# My repo consists of mostly visualised math
+# My repo mostly consists of some visualised math.
 
 Rootfinder/plotter : Reads in the values a,b,c for ax^2 + bx + c, calculates the roots(also complex) and plots graph./b
 
