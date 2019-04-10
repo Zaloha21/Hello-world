@@ -6,3 +6,5 @@ Normal distribution 1: Takes in data seperated by commas and boundries of which 
 
 Normal distribution 2: Takes standard deviation and mean seperated by commas and boundries of which the chance can be calculated.
 (plot of area is bugged)
+
+Autoclicker branch contains a autoclicker script with anti bot-detection measures (small cv2/pynput project)
